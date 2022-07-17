@@ -9,3 +9,8 @@ C
 C++
 
 Js
+
+### Languages 
+Thai(native)
+
+English
