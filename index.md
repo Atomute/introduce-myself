@@ -4,9 +4,8 @@ so how to use this thing lol
 
 ---
 
-'''markdown
-how about this one 
-how does it work
+'''python
+print("let's try this one")
 '''
 
 ***
